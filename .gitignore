@@ -1,1 +1,9 @@
-*/mtbs_perimeter_data*/mtbs_perims_DD.shp
+.Rproj.user/
+.Rhistory
+.RData
+.DS_Store
+*.shp
+*.nc
+*.tif
+__MACOSX/
+
